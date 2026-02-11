@@ -50,7 +50,7 @@ shyam.cndoctor='Dr. KD'
 shyam.Bgroup= 'A+'
 
 
-print(hospital.hname)
+print(shyam.wardno)
 
 
 
