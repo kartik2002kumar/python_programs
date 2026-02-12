@@ -38,13 +38,19 @@ class A29:
 
     def ch_mock(self,new):
          self.mock=new
+    def ch_mockday(self,new):
+         self.mockday=new
 
 
-s1=A29('Kartik',73,'best')
+s1=A29('Kartik',73,'best','friday')
 
 s1.dis_obj()
 s1.ch_mock('remock')
+
 s1.dis_obj()
+s1.ch_mockday('tuesady')
+s1.dis_obj()
+
     
     
     
