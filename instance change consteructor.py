@@ -7,5 +7,5 @@ class Student:
 s1 = Student("Kartik")
 print(s1.name)
 
-s1.change_name("Rahul")
+s1.change_name("Shyam")
 print(s1.name)
