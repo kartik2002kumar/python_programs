@@ -64,6 +64,11 @@ class Solution {
     }
 }
 
+d1 = Demo()
+d1.change()
+
+print(d1.x)      # 20
+print(Demo.x)    # 10
 
 
 
